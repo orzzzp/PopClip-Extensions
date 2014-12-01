@@ -8,7 +8,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZF6GAr3NCshmkKshPyOB4zincVM=
+			a628phS9QvKAGe8SZwW4XcIMyh4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a628phS9QvKAGe8SZwW4XcIMyh4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -20,7 +29,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZF6GAr3NCshmkKshPyOB4zincVM=
+			a628phS9QvKAGe8SZwW4XcIMyh4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a628phS9QvKAGe8SZwW4XcIMyh4=
 			</data>
 			<key>optional</key>
 			<true/>
